@@ -1,2 +1,2 @@
-# PACMAN-
-I have created PACMAN as a runner game with a new interface. Hope, you enjoy!
+# p5.play-boilerplate
+Boiler plate for p5.play
